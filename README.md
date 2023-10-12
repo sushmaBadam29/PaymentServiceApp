@@ -1,1 +1,2 @@
-# PaymentServiceApp
+# PaymentServiceApplication
+Spring Boot application
