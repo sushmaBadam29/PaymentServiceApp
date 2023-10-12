@@ -1,9 +1,9 @@
-package com.ncr.paymentapp.TransactionService.controller;
+package com.project.paymentapp.TransactionService.controller;
 
-import com.ncr.paymentapp.TransactionService.manager.TransactionManager;
-import com.ncr.paymentapp.TransactionService.models.TransactionRequest;
-import com.ncr.paymentapp.TransactionService.models.TransactionResponse;
-import com.ncr.paymentapp.UserService.Entities.User;
+import com.project.paymentapp.TransactionService.manager.TransactionManager;
+import com.project.paymentapp.TransactionService.models.TransactionRequest;
+import com.project.paymentapp.TransactionService.models.TransactionResponse;
+import com.project.paymentapp.UserService.Entities.User;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.security.core.Authentication;

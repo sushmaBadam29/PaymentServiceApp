@@ -1,7 +1,7 @@
-package com.ncr.paymentapp.AuthenticationService;
+package com.project.paymentapp.AuthenticationService;
 
-import com.ncr.paymentapp.UserService.Entities.User;
-import com.ncr.paymentapp.UserService.Entities.UserResponse;
+import com.project.paymentapp.UserService.Entities.User;
+import com.project.paymentapp.UserService.Entities.UserResponse;
 import lombok.SneakyThrows;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.core.userdetails.UserDetails;

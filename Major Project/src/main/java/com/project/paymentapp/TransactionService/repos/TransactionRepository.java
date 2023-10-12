@@ -1,6 +1,6 @@
-package com.ncr.paymentapp.TransactionService.repos;
+package com.project.paymentapp.TransactionService.repos;
 
-import com.ncr.paymentapp.TransactionService.entites.Transaction;
+import com.project.paymentapp.TransactionService.entites.Transaction;
 import org.springframework.data.repository.CrudRepository;
 
 import java.util.Optional;

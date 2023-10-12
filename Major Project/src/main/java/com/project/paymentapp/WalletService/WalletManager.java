@@ -1,4 +1,4 @@
-package com.ncr.paymentapp.WalletService;
+package com.project.paymentapp.WalletService;
 
 public interface WalletManager {
    void createWallet(String request);

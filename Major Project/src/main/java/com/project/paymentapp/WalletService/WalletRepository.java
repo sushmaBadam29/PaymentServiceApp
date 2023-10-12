@@ -1,6 +1,6 @@
-package com.ncr.paymentapp.WalletService;
+package com.project.paymentapp.WalletService;
 
-import com.ncr.paymentapp.WalletService.Entity.Wallet;
+import com.project.paymentapp.WalletService.Entity.Wallet;
 import org.springframework.data.repository.CrudRepository;
 import org.springframework.stereotype.Repository;
 

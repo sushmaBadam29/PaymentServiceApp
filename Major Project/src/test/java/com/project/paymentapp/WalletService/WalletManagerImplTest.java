@@ -1,8 +1,8 @@
-package com.ncr.paymentapp.WalletService;
+package com.project.paymentapp.WalletService;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
-import com.ncr.paymentapp.TransactionService.models.TransactionCreatedResponse;
-import com.ncr.paymentapp.WalletService.Entity.Wallet;
+import com.project.paymentapp.TransactionService.models.TransactionCreatedResponse;
+import com.project.paymentapp.WalletService.Entity.Wallet;
 import lombok.SneakyThrows;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.BeforeEach;

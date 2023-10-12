@@ -1,4 +1,4 @@
-package com.ncr.paymentapp.NotificationService;
+package com.project.paymentapp.NotificationService;
 
 public interface NotificationManager {
     void notifyUserCreate(String request);

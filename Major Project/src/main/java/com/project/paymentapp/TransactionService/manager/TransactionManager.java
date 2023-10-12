@@ -1,7 +1,7 @@
-package com.ncr.paymentapp.TransactionService.manager;
+package com.project.paymentapp.TransactionService.manager;
 
-import com.ncr.paymentapp.TransactionService.models.TransactionRequest;
-import com.ncr.paymentapp.TransactionService.models.TransactionResponse;
+import com.project.paymentapp.TransactionService.models.TransactionRequest;
+import com.project.paymentapp.TransactionService.models.TransactionResponse;
 
 public interface TransactionManager {
 

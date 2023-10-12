@@ -1,8 +1,8 @@
-package com.ncr.paymentapp.UserService.controller;
+package com.project.paymentapp.UserService.controller;
 
 
-import com.ncr.paymentapp.UserService.Entities.UserServiceRequest;
-import com.ncr.paymentapp.UserService.manager.UserService;
+import com.project.paymentapp.UserService.Entities.UserServiceRequest;
+import com.project.paymentapp.UserService.manager.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.http.ResponseEntity;

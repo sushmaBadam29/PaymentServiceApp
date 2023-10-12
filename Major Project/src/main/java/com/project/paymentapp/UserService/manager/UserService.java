@@ -1,7 +1,7 @@
-package com.ncr.paymentapp.UserService.manager;
+package com.project.paymentapp.UserService.manager;
 
-import com.ncr.paymentapp.UserService.Entities.UserResponse;
-import com.ncr.paymentapp.UserService.Entities.UserServiceRequest;
+import com.project.paymentapp.UserService.Entities.UserResponse;
+import com.project.paymentapp.UserService.Entities.UserServiceRequest;
 
 public interface UserService{
     void create(UserServiceRequest userServiceRequest);

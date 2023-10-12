@@ -1,7 +1,7 @@
-package com.ncr.paymentapp.AuthenticationService;
+package com.project.paymentapp.AuthenticationService;
 
-import com.ncr.paymentapp.UserService.MyPassWordEncoder;
-import com.ncr.paymentapp.UserService.repo.UserRepo;
+import com.project.paymentapp.UserService.MyPassWordEncoder;
+import com.project.paymentapp.UserService.repo.UserRepo;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.security.config.annotation.authentication.builders.AuthenticationManagerBuilder;

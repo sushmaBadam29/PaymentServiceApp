@@ -1,4 +1,4 @@
-package com.ncr.paymentapp.conf;
+package com.project.paymentapp.conf;
 
 import org.apache.kafka.clients.producer.ProducerConfig;
 import org.apache.kafka.common.serialization.StringSerializer;

@@ -1,11 +1,11 @@
-package com.ncr.paymentapp.WalletService;
+package com.project.paymentapp.WalletService;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
-import com.ncr.paymentapp.TransactionService.models.TransactionCreatedResponse;
-import com.ncr.paymentapp.UserService.Entities.UserResponse;
-import com.ncr.paymentapp.WalletService.Entity.Wallet;
-import com.ncr.paymentapp.WalletService.Entity.WalletResponse;
-import com.ncr.paymentapp.WalletService.Entity.WalletStatus;
+import com.project.paymentapp.TransactionService.models.TransactionCreatedResponse;
+import com.project.paymentapp.UserService.Entities.UserResponse;
+import com.project.paymentapp.WalletService.Entity.Wallet;
+import com.project.paymentapp.WalletService.Entity.WalletResponse;
+import com.project.paymentapp.WalletService.Entity.WalletStatus;
 import lombok.SneakyThrows;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.kafka.annotation.KafkaListener;

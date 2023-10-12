@@ -1,8 +1,8 @@
-package com.ncr.paymentapp.NotificationService;
+package com.project.paymentapp.NotificationService;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
-import com.ncr.paymentapp.UserService.Entities.UserCreatedResponse;
-import com.ncr.paymentapp.WalletService.Entity.WalletResponse;
+import com.project.paymentapp.UserService.Entities.UserCreatedResponse;
+import com.project.paymentapp.WalletService.Entity.WalletResponse;
 import lombok.SneakyThrows;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.kafka.annotation.KafkaListener;

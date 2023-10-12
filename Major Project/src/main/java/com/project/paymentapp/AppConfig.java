@@ -1,4 +1,4 @@
-package com.ncr.paymentapp;
+package com.project.paymentapp;
 
 
 import org.springframework.boot.autoconfigure.security.reactive.ReactiveSecurityAutoConfiguration;

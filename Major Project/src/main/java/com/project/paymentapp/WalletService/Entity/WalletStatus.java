@@ -1,4 +1,4 @@
-package com.ncr.paymentapp.WalletService.Entity;
+package com.project.paymentapp.WalletService.Entity;
 
 public enum WalletStatus {
     SUCCESS, FAILURE

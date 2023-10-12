@@ -1,6 +1,6 @@
-package com.ncr.paymentapp.TransactionService.entites;
-import com.ncr.paymentapp.TransactionService.models.TransactionStatus;
-import com.ncr.paymentapp.TransactionService.models.TransactionType;
+package com.project.paymentapp.TransactionService.entites;
+import com.project.paymentapp.TransactionService.models.TransactionStatus;
+import com.project.paymentapp.TransactionService.models.TransactionType;
 import lombok.*;
 
 import javax.persistence.*;

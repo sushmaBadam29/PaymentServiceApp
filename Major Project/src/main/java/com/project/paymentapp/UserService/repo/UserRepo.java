@@ -1,6 +1,6 @@
-package com.ncr.paymentapp.UserService.repo;
+package com.project.paymentapp.UserService.repo;
 
-import com.ncr.paymentapp.UserService.Entities.User;
+import com.project.paymentapp.UserService.Entities.User;
 import org.springframework.data.repository.CrudRepository;
 
 import java.util.Optional;

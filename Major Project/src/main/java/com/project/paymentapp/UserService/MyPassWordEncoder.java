@@ -1,4 +1,4 @@
-package com.ncr.paymentapp.UserService;
+package com.project.paymentapp.UserService;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;

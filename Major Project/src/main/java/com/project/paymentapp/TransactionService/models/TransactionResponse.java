@@ -1,4 +1,4 @@
-package com.ncr.paymentapp.TransactionService.models;
+package com.project.paymentapp.TransactionService.models;
 
 import lombok.*;
 

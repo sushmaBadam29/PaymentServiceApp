@@ -1,4 +1,4 @@
-package com.ncr.paymentapp.UserService.Entities;
+package com.project.paymentapp.UserService.Entities;
 
 import lombok.*;
 

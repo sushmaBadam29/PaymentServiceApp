@@ -1,12 +1,12 @@
-package com.ncr.paymentapp.UserService.manager;
+package com.project.paymentapp.UserService.manager;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
-import com.ncr.paymentapp.UserService.Entities.User;
-import com.ncr.paymentapp.UserService.Entities.UserCreatedResponse;
-import com.ncr.paymentapp.UserService.Entities.UserResponse;
-import com.ncr.paymentapp.UserService.Entities.UserServiceRequest;
-import com.ncr.paymentapp.UserService.MyPassWordEncoder;
-import com.ncr.paymentapp.UserService.repo.UserRepo;
+import com.project.paymentapp.UserService.Entities.User;
+import com.project.paymentapp.UserService.Entities.UserCreatedResponse;
+import com.project.paymentapp.UserService.Entities.UserResponse;
+import com.project.paymentapp.UserService.Entities.UserServiceRequest;
+import com.project.paymentapp.UserService.MyPassWordEncoder;
+import com.project.paymentapp.UserService.repo.UserRepo;
 import lombok.SneakyThrows;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Qualifier;
